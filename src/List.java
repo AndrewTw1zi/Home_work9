@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public interface List<T> {
     void add(T value);
     void add(T value, int index);
